@@ -14,7 +14,7 @@
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT%20LINK-BELOW-lightgrey) 
-### [HERE](https://fsjs-age-calculator-javascript-project.netlify.app/)
+### [HERE](https://fsjs-age-calculator-js-project.netlify.app/)
 
 ***
 
